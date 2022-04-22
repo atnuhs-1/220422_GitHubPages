@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       header:
-        overlay_image: /assets/images/header.png
+        overlay_image: /assets/images/icons/1500x500.jpeg
         overlay_filter: 0.5
   # pages
   - scope:
