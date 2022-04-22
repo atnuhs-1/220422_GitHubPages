@@ -38,5 +38,31 @@ permalink: /
  - coemie
  - MAISONdes
  - MIMI
+ - childspot
+ - Chinozo
+ - DUSTCELL
+ - FantasicYouth
+ - Orengestar
+ - Sou
+ - UNISON SQUARE GARDEN
+ - yama
+ - YOASOBI
+ - キタニタツヤ
+ - くじら
+ - すりぃ
+ - ツユ
+ - バルーン
+ - ダズビー
+ - ポルカドットスティングレイ
+ - ミテイノハナシ
+ - 和ぬか
+ - 水槽
+ - 煮ル果実
+ - 理芽
+ - 神山羊
+ - 神様、僕は気づいてしまった
+ - 米津玄師
+ - 美波
+ - 藤井　風
  - 
 ![image](assets/images/icons/1500x500.jpeg)
