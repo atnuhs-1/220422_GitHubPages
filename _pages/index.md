@@ -11,18 +11,21 @@ permalink: /
 # 自己紹介  
 #### ・ニックネーム
 　たこ/atnuhs
-## Twitter 
-atnuhs  
+### Twitter 
+ - atnuhs  
 [https://twitter.com/Oct3_14]  
   
 ## やってるゲーム  
 - Fortnite  
 - APEX
 - Rocket League
-- たまにGTA5
+- たまにGTA5  
+
+
+#### 書くことないので好きなアーティスト羅列しときます
   
 ## 好きなアーティスト
- - ヨルシカ
+ - **ヨルシカ**(ライブに行ってみたい）
  - Eve
  - 獅子志司
  - 秋山黄色
@@ -30,6 +33,13 @@ atnuhs
  - ずっと真夜中でいいのに。
  - サイダーガール
  - PEOPLE 1
+ - syudou
+ - sumika
+ - ツミキ
+ - NOMELON NOLEMON
+ - coemie
+ - MAISONdes
+ - MIMI
  - 
 
 
