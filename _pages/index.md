@@ -8,6 +8,29 @@ permalink: /
 
 ここに内容を記述する！
 
+# 自己紹介  
+#### ・ニックネーム
+　たこ/atnuhs
+## Twitter 
+atnuhs  
+[https://twitter.com/Oct3_14]  
+  
+## やってるゲーム  
+- Fortnite  
+- APEX
+- Rocket League
+- たまにGTA5
+  
+## 好きなアーティスト
+ - ヨルシカ
+ - Eve
+ - 獅子志司
+ - 秋山黄色
+ - 須田景凪
+ - ずっと真夜中でいいのに。
+ - サイダーガール
+ - PEOPLE 1
+ - 
 
 
 ---
