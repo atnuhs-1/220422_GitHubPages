@@ -1,8 +1,8 @@
 default:
   name: "atnuhs"
   avatar: "/assets/images/icons/IMG_5662.JPG"
-  bio: "KITHUBで行われた勉強会の参加者です。"
+  bio: "KITHUBで行われた勉強会の参加者です。チョコ美味しい。"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com"
+      url: "https://twitter.com/Oct3_14"
