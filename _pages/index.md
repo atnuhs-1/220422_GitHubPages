@@ -39,5 +39,4 @@ permalink: /
  - MAISONdes
  - MIMI
  - 
-
-![image](/220422_GitHubPages/assets/images/logo-150.png)
+![image](assets/images/icons/1500x500.jpeg)
