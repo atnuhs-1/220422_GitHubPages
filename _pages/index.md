@@ -1,25 +1,8 @@
 ---
-title: "Self Introduction"
+title: "?"
 author: default
 permalink: /
 ---
-
-
-
-# 自己紹介  
-#### ・ニックネーム
-　たこ/atnuhs
-### Twitter 
-・[atnuhs](https://twitter.com/Oct3_14)  
-  
-## やってるゲーム  
-- Fortnite  
-- APEX
-- Rocket League
-- たまにGTA5  
-
-- スプラ３やりたい
-
 
 #### 書くことないので好きなアーティスト羅列しときます
   
