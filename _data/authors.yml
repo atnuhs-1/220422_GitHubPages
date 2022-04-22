@@ -1,6 +1,6 @@
 default:
   name: "atnuhs"
-  avatar: "/assets/images/icons/default.png"
+  avatar: "/assets/images/icons/IMG_5662.JPG"
   bio: "KITHUBで行われた勉強会の参加者です。"
   links:
     - label: "Twitter"
