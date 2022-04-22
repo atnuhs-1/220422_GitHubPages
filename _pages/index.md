@@ -67,5 +67,5 @@ permalink: /
  - 美波
  - 藤井　風
  - 
- - 
+![image](/assets/images/ogimg.png)
 ![image](assets/images/icons/1500x500.jpeg)
