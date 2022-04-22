@@ -10,7 +10,7 @@ permalink: /
 #### ・ニックネーム
 　たこ/atnuhs
 ### Twitter 
-[・atnuhs](https://twitter.com/Oct3_14)  
+・[atnuhs](https://twitter.com/Oct3_14)  
   
 ## やってるゲーム  
 - Fortnite  
