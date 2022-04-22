@@ -7,9 +7,9 @@ permalink: /
 #### 書くことないので好きなアーティスト羅列しときます （リンクは好きな曲）
   
 ## 好きなアーティスト
- - **ヨルシカ**(ライブに行ってみたい）
+ - [**ヨルシカ**(ライブに行ってみたい）](https://youtu.be/ENcnYh79dUY)
  - [R+（今の推し）](https://youtu.be/VuXLyCqHvqU)
- - Eve
+ - [Eve](https://youtu.be/U7L-3VXAkSA)
  - 獅子志司
  - 秋山黄色
  - 須田景凪
