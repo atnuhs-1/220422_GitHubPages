@@ -18,6 +18,8 @@ permalink: /
 - Rocket League
 - たまにGTA5  
 
+- スプラ３やりたい
+
 
 #### 書くことないので好きなアーティスト羅列しときます
   
@@ -64,5 +66,6 @@ permalink: /
  - 米津玄師
  - 美波
  - 藤井　風
+ - 
  - 
 ![image](assets/images/icons/1500x500.jpeg)
