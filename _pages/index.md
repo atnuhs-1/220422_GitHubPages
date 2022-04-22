@@ -8,7 +8,7 @@ permalink: /
   
 ## 好きなアーティスト
  - **ヨルシカ**(ライブに行ってみたい）
- - R+（今の推し）
+ - [R+（今の推し）](https://youtu.be/VuXLyCqHvqU)
  - Eve
  - 獅子志司
  - 秋山黄色
