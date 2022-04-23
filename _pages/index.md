@@ -18,10 +18,11 @@ permalink: /
  - [ずっと真夜中でいいのに。](https://youtu.be/ubrovjZUi64)
  - サイダーガール　[spotify](https://open.spotify.com/track/7xQ75Q7F5C8GT653QEDKTS?si=9c5a0aea2c42406b)
  - PEOPLE 1　[銃の部品](https://lnk.to/o0hS7N)
- - syudou
- - sumika
- - ツミキ
- - NOMELON NOLEMON
+ - [syudou](https://youtu.be/8r-_K32fsSU)
+ - [sumika](https://youtu.be/jYoaGPEhaC0)
+ - [sumika](
+ - [ツミキ](https://youtu.be/0g6PYgZBvnc)
+ - [NOMELON NOLEMON](https://youtu.be/6CUV-joXzYo)
  - coemie
  - MAISONdes
  - MIMI
