@@ -22,17 +22,17 @@ permalink: /
  - [sumika](https://youtu.be/jYoaGPEhaC0)
  - [ツミキ](https://youtu.be/0g6PYgZBvnc)
  - [NOMELON NOLEMON](https://youtu.be/6CUV-joXzYo)
- - coemie
- - MAISONdes
- - MIMI
- - childspot
- - Chinozo
- - DUSTCELL
- - FantasicYouth
- - Orengestar
- - Sou
- - UNISON SQUARE GARDEN
- - yama
+ - [coemie](https://www.tunecore.co.jp/artists/coemie)
+ - [MAISONdes](https://youtu.be/lr95NsiupYI)
+ - [MIMI](https://youtu.be/HlqlkKvcHhk)
+ - [childspot](https://youtu.be/Xyp4Zxt3qxg)
+ - [Chinozo](https://youtu.be/YznQjwMjDKw)
+ - [DUSTCELL](https://youtu.be/Bhwf0ClMiRQ)
+ - [FantasicYouth](https://youtu.be/lo7Pbo5V5pM)
+ - [Orengestar](https://youtu.be/Tj5KVAnqB5o)
+ - [Sou](https://youtu.be/aY-qhymPR6U)
+ - [UNISON SQUARE GARDEN](https://youtu.be/nPKl93s2o1M)
+ - [yama](https://youtu.be/_ABe7rZw7pQ)
  - YOASOBI
  - キタニタツヤ
  - くじら
