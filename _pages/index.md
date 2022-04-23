@@ -13,11 +13,11 @@ permalink: /
  - [R+（今の推し）](https://youtu.be/VuXLyCqHvqU)
  - [Eve](https://youtu.be/U7L-3VXAkSA)
  - [獅子志司](https://youtu.be/2OQH5cFlHMc)
- - 秋山黄色
- - 須田景凪
- - ずっと真夜中でいいのに。
- - サイダーガール
- - PEOPLE 1
+ - [秋山黄色](https://youtu.be/8-kryug_X2Y)
+ - [須田景凪](https://youtu.be/NQ12-0TYgAs)
+ - [ずっと真夜中でいいのに。](https://youtu.be/ubrovjZUi64)
+ - サイダーガール　[spotify](https://open.spotify.com/track/7xQ75Q7F5C8GT653QEDKTS?si=9c5a0aea2c42406b)
+ - PEOPLE 1　[銃の部品](https://lnk.to/o0hS7N)
  - syudou
  - sumika
  - ツミキ
