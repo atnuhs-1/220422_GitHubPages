@@ -22,7 +22,7 @@ permalink: /
  - [sumika](https://youtu.be/jYoaGPEhaC0)
  - [ツミキ](https://youtu.be/0g6PYgZBvnc)
  - [NOMELON NOLEMON](https://youtu.be/6CUV-joXzYo)
- - [coemie](https://www.tunecore.co.jp/artists/coemie)
+ - [coemie](https://linkco.re/PqUapm2u?lang=ja)
  - [MAISONdes](https://youtu.be/lr95NsiupYI)
  - [MIMI](https://youtu.be/HlqlkKvcHhk)
  - [childspot](https://youtu.be/Xyp4Zxt3qxg)
