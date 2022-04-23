@@ -51,4 +51,4 @@ permalink: /
  - [米津玄師](https://youtu.be/Dx_fKPBPYUI)
  - [美波](https://youtu.be/GQ3V50XoLOM)
  - [藤井　風](https://youtu.be/Nt6ZwuVzOS4)   
-![image](assets/images/icons/1500x500.jpeg)
+![image](assets/images/icons/1500x500.jpeg) 
