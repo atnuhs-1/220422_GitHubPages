@@ -1,5 +1,5 @@
 ---
-title: "?"
+title: "My favorite artist"
 author: default
 permalink: /
 ---
